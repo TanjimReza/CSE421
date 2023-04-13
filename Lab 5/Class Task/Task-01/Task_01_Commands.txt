@@ -1,0 +1,30 @@
+For Router R1:
+R1>
+R1>en 
+R1#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R1(config)#ip route 172.31.0.0 255.255.255.0 172.31.1.193
+R1(config)#ip route 172.31.1.196 255.255.255.252 172.31.1.193
+R1(config)#ip route 172.31.1.128 255.255.255.192 172.31.1.193
+R1(config)#
+
+For Router R2:
+
+R2>enable
+R2#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R2(config)#ip route 172.31.1.0 255.255.255.128 172.31.1.194
+R2(config)#ip route 172.31.1.128 255.255.255.192 172.31.1.198
+R2(config)#
+R2(config)#
+R2#
+
+For Router R3: 
+
+R3>
+R3>enable
+R3#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+R3(config)#ip route 0.0.0.0 0.0.0.0 s0/0/1
+%Default route without gateway, if not a point-to-point interface, may impact performance
+R3(config)#
