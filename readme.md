@@ -1,125 +1,40 @@
-# CSE421
 
-* [Lab 1/](./CSE421/Lab 1)
-  * [Solution/](./CSE421/Lab 1/Solution)
-    * [20101065_TanjimReza_Lab_1.zip](./CSE421/Lab 1/Solution/20101065_TanjimReza_Lab_1.zip)
-    * [20101065_Tanjim_Basic_Router_Config.pdf](./CSE421/Lab 1/Solution/20101065_Tanjim_Basic_Router_Config.pdf)
-    * [20101065_Tanjim_Basic_Router_Config.pka](./CSE421/Lab 1/Solution/20101065_Tanjim_Basic_Router_Config.pka)
-    * [20101065_Tanjim_CSE421-Lab-1-Commands.docx](./CSE421/Lab 1/Solution/20101065_Tanjim_CSE421-Lab-1-Commands.docx)
-  * [Basic_Router_Config.pdf](./CSE421/Lab 1/Basic_Router_Config.pdf)
-  * [Basic_Router_Config.pka](./CSE421/Lab 1/Basic_Router_Config.pka)
-* [Lab 2/](./CSE421/Lab 2)
-  * [20101065 Tanjim Lab2/](./CSE421/Lab 2/20101065 Tanjim Lab2)
-    * [Task_01_-_DNS__ARP.pdf](./CSE421/Lab 2/20101065 Tanjim Lab2/Task_01_-_DNS__ARP.pdf)
-    * [Task_02_-_HTTP__SMTP.pdf](./CSE421/Lab 2/20101065 Tanjim Lab2/Task_02_-_HTTP__SMTP.pdf)
-    * [Task_03_-_HTTP__TCP.pdf](./CSE421/Lab 2/20101065 Tanjim Lab2/Task_03_-_HTTP__TCP.pdf)
-  * [home/](./CSE421/Lab 2/home)
-    * [20101065 Tanjim Lab 2.zip](./CSE421/Lab 2/home/20101065 Tanjim Lab 2.zip)
-    * [CSE421_Lab02_homework.docx](./CSE421/Lab 2/home/CSE421_Lab02_homework.docx)
-  * [20101065 Tanjim Lab2.zip](./CSE421/Lab 2/20101065 Tanjim Lab2.zip)
-  * [Lab 02 Tasks.docx](./CSE421/Lab 2/Lab 02 Tasks.docx)
-  * [Task_01_-_DNS__ARP.pkt](./CSE421/Lab 2/Task_01_-_DNS__ARP.pkt)
-  * [Task_02_-_HTTP__SMTP.pkt](./CSE421/Lab 2/Task_02_-_HTTP__SMTP.pkt)
-  * [Task_03_-_HTTP__TCP.pkt](./CSE421/Lab 2/Task_03_-_HTTP__TCP.pkt)
-* [Lab 3/](./CSE421/Lab 3)
-  * [Class Task/](./CSE421/Lab 3/Class Task)
-    * [Task-01/](./CSE421/Lab 3/Class Task/Task-01)
-      * [client.py](./CSE421/Lab 3/Class Task/Task-01/client.py)
-      * [server.py](./CSE421/Lab 3/Class Task/Task-01/server.py)
-    * [Task-02/](./CSE421/Lab 3/Class Task/Task-02)
-      * [client.py](./CSE421/Lab 3/Class Task/Task-02/client.py)
-      * [server.py](./CSE421/Lab 3/Class Task/Task-02/server.py)
-    * [Task-03/](./CSE421/Lab 3/Class Task/Task-03)
-      * [client.py](./CSE421/Lab 3/Class Task/Task-03/client.py)
-      * [Run_Me_TotallyNotAVirus.py](./CSE421/Lab 3/Class Task/Task-03/Run_Me_TotallyNotAVirus.py)
-      * [server_thread.py](./CSE421/Lab 3/Class Task/Task-03/server_thread.py)
-  * [Home Task/](./CSE421/Lab 3/Home Task)
-    * [client.py](./CSE421/Lab 3/Home Task/client.py)
-    * [server_multi_threaded.py](./CSE421/Lab 3/Home Task/server_multi_threaded.py)
-  * [lab03 codes/](./CSE421/Lab 3/lab03 codes)
-    * [Client.py](./CSE421/Lab 3/lab03 codes/Client.py)
-    * [server.py](./CSE421/Lab 3/lab03 codes/server.py)
-    * [server_thread.py](./CSE421/Lab 3/lab03 codes/server_thread.py)
-  * [Submission/](./CSE421/Lab 3/Submission)
-    * [Class Task/](./CSE421/Lab 3/Submission/Class Task)
-      * [20101065_TanjimReza_Lab03.zip](./CSE421/Lab 3/Submission/Class Task/20101065_TanjimReza_Lab03.zip)
-    * [Home Task/](./CSE421/Lab 3/Submission/Home Task)
-      * [20101065_TanjimReza_Lab03.zip](./CSE421/Lab 3/Submission/Home Task/20101065_TanjimReza_Lab03.zip)
-* [Lab 5/](./CSE421/Lab 5)
-  * [Class Task/](./CSE421/Lab 5/Class Task)
-    * [Task-01/](./CSE421/Lab 5/Class Task/Task-01)
-      * [2.2.2.4_Packet_Tracer_-_Configuring_IPv4_Static_and_Default_Routes.pka](./CSE421/Lab 5/Class Task/Task-01/2.2.2.4_Packet_Tracer_-_Configuring_IPv4_Static_and_Default_Routes.pka)
-      * [2.2.2.4_Packet_Tracer_-_Configuring_IPv4_Static_and_Default_Routes_Instructions.pdf](./CSE421/Lab 5/Class Task/Task-01/2.2.2.4_Packet_Tracer_-_Configuring_IPv4_Static_and_Default_Routes_Instructions.pdf)
-      * [Task_01_Commands.txt](./CSE421/Lab 5/Class Task/Task-01/Task_01_Commands.txt)
-    * [Task-02/](./CSE421/Lab 5/Class Task/Task-02)
-      * [2.2.5.5_Packet_Tracer_-_Configuring_Floating_Static_Routes.pka](./CSE421/Lab 5/Class Task/Task-02/2.2.5.5_Packet_Tracer_-_Configuring_Floating_Static_Routes.pka)
-      * [2.2.5.5_Packet_Tracer_-_Configuring_Floating_Static_Routes_Instructions.pdf](./CSE421/Lab 5/Class Task/Task-02/2.2.5.5_Packet_Tracer_-_Configuring_Floating_Static_Routes_Instructions.pdf)
-      * [Task_02_Commands.txt](./CSE421/Lab 5/Class Task/Task-02/Task_02_Commands.txt)
-    * [Task-03/](./CSE421/Lab 5/Class Task/Task-03)
-      * [7.3.1.8_Packet_Tracer_-_Configuring_RIPv2.pka](./CSE421/Lab 5/Class Task/Task-03/7.3.1.8_Packet_Tracer_-_Configuring_RIPv2.pka)
-      * [7.3.1.8_Packet_Tracer_-_Configuring_RIPv2_Instructions.pdf](./CSE421/Lab 5/Class Task/Task-03/7.3.1.8_Packet_Tracer_-_Configuring_RIPv2_Instructions.pdf)
-      * [Task_03_Commands.txt](./CSE421/Lab 5/Class Task/Task-03/Task_03_Commands.txt)
-    * [20101065_Tanjim Reza_05.zip](./CSE421/Lab 5/Class Task/20101065_Tanjim Reza_05.zip)
-    * [Class Task Instructions.docx](./CSE421/Lab 5/Class Task/Class Task Instructions.docx)
-    * [RIPv2Commands.doc](./CSE421/Lab 5/Class Task/RIPv2Commands.doc)
-* [Lab Project/](./CSE421/Lab Project)
-  * [CSE421 Project.pdf](./CSE421/Lab Project/CSE421 Project.pdf)
-  * [CSE421_Project.pkt](./CSE421/Lab Project/CSE421_Project.pkt)
-  * [Topology Diagram.png](./CSE421/Lab Project/Topology Diagram.png)
-* [Lab04/](./CSE421/Lab04)
-  * [Lab04/](./CSE421/Lab04/Lab04)
-    * [Class tasks/](./CSE421/Lab04/Lab04/Class tasks)
-      * [13.2.7_Packet_Tracer_-_Use_Ping_and_Traceroute_to_Test_Network_Connectivity.docx](./CSE421/Lab04/Lab04/Class tasks/13.2.7_Packet_Tracer_-_Use_Ping_and_Traceroute_to_Test_Network_Connectivity.docx)
-      * [13.2.7_Packet_Tracer_-_Use_Ping_and_Traceroute_to_Test_Network_Connectivity.pka](./CSE421/Lab04/Lab04/Class tasks/13.2.7_Packet_Tracer_-_Use_Ping_and_Traceroute_to_Test_Network_Connectivity.pka)
-      * [17.7.7_Packet_Tracer_-_Troubleshoot_Connectivity_Issues.docx](./CSE421/Lab04/Lab04/Class tasks/17.7.7_Packet_Tracer_-_Troubleshoot_Connectivity_Issues.docx)
-      * [17.7.7_Packet_Tracer_-_Troubleshoot_Connectivity_Issues.pka](./CSE421/Lab04/Lab04/Class tasks/17.7.7_Packet_Tracer_-_Troubleshoot_Connectivity_Issues.pka)
-      * [8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_Cisco_IOS.pka](./CSE421/Lab04/Lab04/Class tasks/8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_Cisco_IOS.pka)
-      * [8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_Cisco_IOS_Instructions.pdf](./CSE421/Lab04/Lab04/Class tasks/8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_Cisco_IOS_Instructions.pdf)
-    * [Home tasks/](./CSE421/Lab04/Lab04/Home tasks)
-      * [8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_DHCP_Server.pka](./CSE421/Lab04/Lab04/Home tasks/8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_DHCP_Server.pka)
-      * [8.1.3.3_Packet_Tracer_Configuring_DHCPv4_Using_DHCP_Server.pdf](./CSE421/Lab04/Lab04/Home tasks/8.1.3.3_Packet_Tracer_Configuring_DHCPv4_Using_DHCP_Server.pdf)
-      * [half done 8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_DHCP_Server.pka](./CSE421/Lab04/Lab04/Home tasks/half done 8.1.3.3_Packet_Tracer_-_Configuring_DHCPv4_Using_DHCP_Server.pka)
-  * [Submission/](./CSE421/Lab04/Submission)
-    * [Lab04/](./CSE421/Lab04/Submission/Lab04)
-      * [Lab04/](./CSE421/Lab04/Submission/Lab04/Lab04)
-        * [Class tasks/](./CSE421/Lab04/Submission/Lab04/Lab04/Class tasks)
-        * [Home tasks/](./CSE421/Lab04/Submission/Lab04/Lab04/Home tasks)
-* [Lecture Slides/](./CSE421/Lecture Slides)
-  * [01.1 - Introduction to the Course.pdf](./CSE421/Lecture Slides/01.1 - Introduction to the Course.pdf)
-  * [01.1 - Introduction to the Course.pptx](./CSE421/Lecture Slides/01.1 - Introduction to the Course.pptx)
-  * [01.2 - Introduction to Networking.pdf](./CSE421/Lecture Slides/01.2 - Introduction to Networking.pdf)
-  * [01.2 - Introduction to Networking.pptx](./CSE421/Lecture Slides/01.2 - Introduction to Networking.pptx)
-  * [02 - Protocols.pdf](./CSE421/Lecture Slides/02 - Protocols.pdf)
-  * [02 - Protocols.pptx](./CSE421/Lecture Slides/02 - Protocols.pptx)
-  * [03.1 - Application Layer (HTTP) - Part 1.pdf](./CSE421/Lecture Slides/03.1 - Application Layer (HTTP) - Part 1.pdf)
-  * [03.1 - Application Layer (HTTP) - Part 1.pptx](./CSE421/Lecture Slides/03.1 - Application Layer (HTTP) - Part 1.pptx)
-  * [03.2 - Application Layer (HTTP) - Part 2.pdf](./CSE421/Lecture Slides/03.2 - Application Layer (HTTP) - Part 2.pdf)
-  * [03.2 - Application Layer (HTTP) - Part 2.pptx](./CSE421/Lecture Slides/03.2 - Application Layer (HTTP) - Part 2.pptx)
-  * [03.3 (Old 4) - Application Layer (Electronic Mail _ DNS).pdf](./CSE421/Lecture Slides/03.3 (Old 4) - Application Layer (Electronic Mail _ DNS).pdf)
-  * [03.3 (Old 4) - Application Layer (Electronic Mail _ DNS).pptx](./CSE421/Lecture Slides/03.3 (Old 4) - Application Layer (Electronic Mail _ DNS).pptx)
-  * [05 - Application Layer - FTP, P2P, CDN.pdf](./CSE421/Lecture Slides/05 - Application Layer - FTP, P2P, CDN.pdf)
-  * [05 - Application Layer - FTP, P2P, CDN.pptx](./CSE421/Lecture Slides/05 - Application Layer - FTP, P2P, CDN.pptx)
-  * [06 - Transport Layer - Introduction and UDP.pdf](./CSE421/Lecture Slides/06 - Transport Layer - Introduction and UDP.pdf)
-  * [06 - Transport Layer - Introduction and UDP.pptx](./CSE421/Lecture Slides/06 - Transport Layer - Introduction and UDP.pptx)
-  * [07 - Transport Layer (TCP) (Updated).pdf](./CSE421/Lecture Slides/07 - Transport Layer (TCP) (Updated).pdf)
-  * [07 - Transport Layer (TCP) (Updated).pptx](./CSE421/Lecture Slides/07 - Transport Layer (TCP) (Updated).pptx)
-  * [08 - Network Layer - IPv4 Functions.pdf](./CSE421/Lecture Slides/08 - Network Layer - IPv4 Functions.pdf)
-  * [08 - Network Layer - IPv4 Functions.pptx](./CSE421/Lecture Slides/08 - Network Layer - IPv4 Functions.pptx)
-  * [09 - Network Layer - IPv4 Addressing.pdf](./CSE421/Lecture Slides/09 - Network Layer - IPv4 Addressing.pdf)
-  * [09 - Network Layer - IPv4 Addressing.pptx](./CSE421/Lecture Slides/09 - Network Layer - IPv4 Addressing.pptx)
-  * [10 - Network Layer - Subnetting.pdf](./CSE421/Lecture Slides/10 - Network Layer - Subnetting.pdf)
-  * [10 - Network Layer - Subnetting.pptx](./CSE421/Lecture Slides/10 - Network Layer - Subnetting.pptx)
-  * [11 - DHCPv4 _ NAT.pdf](./CSE421/Lecture Slides/11 - DHCPv4 _ NAT.pdf)
-  * [11 - DHCPv4 _ NAT.pptx](./CSE421/Lecture Slides/11 - DHCPv4 _ NAT.pptx)
-  * [12 - Network Layer - Static Routing.pdf](./CSE421/Lecture Slides/12 - Network Layer - Static Routing.pdf)
-  * [12 - Network Layer - Static Routing.pptx](./CSE421/Lecture Slides/12 - Network Layer - Static Routing.pptx)
-  * [13- Network Layer ( Routing Algorithm_Distance Vector Routing).pdf](./CSE421/Lecture Slides/13- Network Layer ( Routing Algorithm_Distance Vector Routing).pdf)
-  * [13- Network Layer ( Routing Algorithm_Distance Vector Routing).pptx](./CSE421/Lecture Slides/13- Network Layer ( Routing Algorithm_Distance Vector Routing).pptx)
-  * [14- Network Layer ( Routing Algorithm_Link State Routing).pdf](./CSE421/Lecture Slides/14- Network Layer ( Routing Algorithm_Link State Routing).pdf)
-  * [14- Network Layer ( Routing Algorithm_Link State Routing).pptx](./CSE421/Lecture Slides/14- Network Layer ( Routing Algorithm_Link State Routing).pptx)
-  * [15- Network Layer ( Internet Protocol version 6).pdf](./CSE421/Lecture Slides/15- Network Layer ( Internet Protocol version 6).pdf)
-  * [15- Network Layer ( Internet Protocol version 6).pptx](./CSE421/Lecture Slides/15- Network Layer ( Internet Protocol version 6).pptx)
-  * [16 - Data Link Layer.pdf](./CSE421/Lecture Slides/16 - Data Link Layer.pdf)
-  * [16 - Data Link Layer.pptx](./CSE421/Lecture Slides/16 - Data Link Layer.pptx)
-* [README.md](./CSE421/README.md)
-* [tree.txt](./CSE421/tree.txt)
++---Lab 1
+ª   +---Solution
++---Lab 2
+ª   +---20101065 Tanjim Lab2
+ª   +---home
++---Lab 3
+ª   +---Class Task
+ª   ª   +---Task-01
+ª   ª   +---Task-02
+ª   ª   +---Task-03
+ª   +---Home Task
+ª   +---lab03 codes
+ª   +---Submission
+ª       +---Class Task
+ª       +---Home Task
++---Lab 5
+ª   +---Class Task
+ª       +---Task-01
+ª       +---Task-02
+ª       +---Task-03
++---Lab Project
++---Lab04
+ª   +---Lab04
+ª   ª   +---Class tasks
+ª   ª   +---Home tasks
+ª   +---Submission
+ª       +---Lab04
+ª           +---Lab04
+ª               +---Class tasks
+ª               ª   +---20101065_TanjimReza_Lab04
+ª               ª   ª   +---Task-01
+ª               ª   ª   +---Task-02
+ª               ª   ª   +---Task-03
+ª               ª   +---Task-01
+ª               ª   +---Task-02
+ª               ª   +---Task-03
+ª               +---Home tasks
+ª                   +---20101065_TanjimReza_Lab04
++---Lecture Slides
